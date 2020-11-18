@@ -30,7 +30,7 @@
     "monkberry-events": "4.0.8",
     "monkberry-loader": "4.0.8",
     "node-sass": "3.4.1",
-    "nunjucks": "2.4.2",
+    "nunjucks": "3.2.1",
     "nunjucks-loader": "2.4.1",
     "postcss-loader": "0.8.0",
     "query-string": "3.0.0",
